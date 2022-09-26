@@ -30,6 +30,7 @@ class PrimerPoint
         Thread.Sleep(3000);
         INavigation navigation = driver.Navigate();
         navigation.Refresh();
+        //se va a devolver en la pagina 
         navigation.Back();
         navigation.Forward();
         driver.Close();
