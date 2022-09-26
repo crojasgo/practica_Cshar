@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqHtQnwGNEI+/aK1+ies0BlIcoxx6/0oG9GsMIGjN/GgMsyauGczm3AwyuhqQI/a31oBt5TJelvY+zIEAcfMuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crisd\\OneDrive\\Documentos\\practica_automatizacion\\SetupingYourEnviroment\\ConsoleApp1\\ConsoleApp1\\SetupEnviroment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crisd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\crisd\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\crisd\\.nuget\\packages\\selenium.support\\4.4.0\\selenium.support.4.4.0.nupkg.sha512",
+    "C:\\Users\\crisd\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\crisd\\.nuget\\packages\\selenium.webdriver.chromedriver\\105.0.5195.5200\\selenium.webdriver.chromedriver.105.0.5195.5200.nupkg.sha512",
+    "C:\\Users\\crisd\\.nuget\\packages\\selenium.webdriver.iedriver\\4.3.0\\selenium.webdriver.iedriver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
